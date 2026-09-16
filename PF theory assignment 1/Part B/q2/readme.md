@@ -12,7 +12,7 @@
 
 | Given Data | Processing required | Required Result |
 | :--- | :--- | :---|
-| floor, N (total requests) | Compare the currentfloor with newfloor requested. Update the current floor as "Doors opening", "moving up", or "moving down". Do this N times
+| floor, N (total requests) | Compare the currentfloor with newfloor requested. Update the current floor as "Doors opening", "moving up", or "moving down". Do this N times | different outputs for each floor
 
 
 
