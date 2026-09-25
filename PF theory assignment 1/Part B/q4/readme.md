@@ -1,3 +1,6 @@
+## Edit in flowchart in the pdf: 
+formula for a is s - ((s*d)/100) not s - ((s-d)/100)
+
 ## IPO Chart
 
 | Input | Processing | Output |
