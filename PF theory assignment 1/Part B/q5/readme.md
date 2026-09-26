@@ -1,4 +1,4 @@
-#Correction for Pseudocode/Flowchart:
+##Correction for Pseudocode/Flowchart:
 I missed the requirement to take multiple vehicle inputs from the user; my pseudocode and flowchart process one input currently. The value resets every time it runs. I have fixed the issue in the C code. 
 
 ## IPO Chart
