@@ -25,5 +25,8 @@ BS-AI 1A
 | :--- | :--- | :---|
 | number of guests (N), Season, room type, no. of nights | discount (where applicable), total price = (rate * nights) | Final price for guest, total revenue. |
 
+## Output
+<img width="1886" height="990" alt="image" src="https://github.com/user-attachments/assets/48c33211-1d02-4a54-9ac6-6db2e7282ced" />
+
 
 
