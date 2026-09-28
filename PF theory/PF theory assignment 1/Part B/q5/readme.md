@@ -1,3 +1,12 @@
+### Name: 
+Omer Aboya
+
+### Student ID:
+26K-0014
+
+### Section:
+BS-AI 1A
+
 # Correction for Pseudocode/Flowchart:
 I missed the requirement to take multiple vehicle inputs from the user; my pseudocode and flowchart process one input currently. The value resets every time it runs. I have fixed the issue in the C code. 
 
