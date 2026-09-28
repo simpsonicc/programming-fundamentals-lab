@@ -24,6 +24,9 @@ BS-AI 1A
 | :--- | :--- | :---|
 | floor, N (total requests) | Compare the currentfloor with newfloor requested. Update the current floor as "Doors opening", "moving up", or "moving down". Do this N times | different outputs for each floor
 
+## Output 
+<img width="1883" height="529" alt="image" src="https://github.com/user-attachments/assets/c787da54-964b-416a-994c-73204101b8ab" />
+
 
 
 
