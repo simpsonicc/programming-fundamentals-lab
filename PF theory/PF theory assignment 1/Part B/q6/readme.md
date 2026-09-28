@@ -20,3 +20,8 @@ BS-AI 1A
 | Given Data | Processing required | Output required |
 | :--- | :--- | :--- |
 | currentcharge, requiredcharge, duration, currenttime, membership, disable, available, type. | - Check slot availability and vehicle type `E` or `H`. <br> - Calculate net required charge using requiredcharge - currentcharge. <br> - Evaluate priority levels ("Emergency Charging Priority", "Priority charging", "Normal charging"). <br> - Check if currenttime is within peak ("17:00:00" to "22:00:00") or off-peak hours to set rates. <br> - Calculate parking price based on duration tiers ($\le 2$, $>2$ and $\le 5$, $>5$). <br> - Apply membership (20% off parking and charging) or disability (free parking) if applicable. <br> - Generate long-stay warnings if duration exceeds limit of 8 hours | - Long-stay warning or standard parking duration message. <br> - Parking price if parking=TRUE: a detailed breakdown of type, currentcharge, requiredcharge, priority, status, cprice, pprice, discount, and totalprice |
+
+
+## Output
+<img width="1807" height="902" alt="image" src="https://github.com/user-attachments/assets/308989c4-b3fe-4130-844d-628ec42dfbf5" />
+
