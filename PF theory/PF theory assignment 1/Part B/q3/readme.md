@@ -18,3 +18,6 @@ BS-AI 1A
 | Given Data | Processing required | Required result |
 | :--- | :--- | :--- |
 | N (no. of students, marks, marks for subject 1, 2, 3, 4 and 5. | 1. Add all individual marks <br> 2. Calculate its average out of 100. | Classification into "fail", "Distinction", "pass" or "fail - course deficiency" |
+
+## Output
+<img width="1909" height="756" alt="image" src="https://github.com/user-attachments/assets/7f305575-cf58-4cab-b1c1-4973614ef417" />
