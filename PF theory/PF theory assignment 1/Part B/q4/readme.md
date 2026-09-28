@@ -1,4 +1,14 @@
-## Edit in flowchart in the pdf: 
+### Name: 
+Omer Aboya
+
+### Student ID:
+26K-0014
+
+### Section:
+BS-AI 1A
+
+
+## Edit for the flowchart in the PDF: 
 formula for a is s - ((s*d)/100) not s - ((s-d)/100)
 
 ## IPO Chart
@@ -12,3 +22,5 @@ formula for a is s - ((s*d)/100) not s - ((s-d)/100)
 | Given Data | Processing required | Output required |
 | :--- | :--- | :--- |
 | quantity, price per item, discount percentage, tax percentage. | subtotal = quantity x price <br> amont = subtotal - (subtotal discounted amont)/100) <br> final bill = amont + ((amont x tax percentage)/100) | total amont that needs to be paid. |
+
+
