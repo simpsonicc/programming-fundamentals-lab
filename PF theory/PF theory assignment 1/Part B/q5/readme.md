@@ -21,3 +21,8 @@ I missed the requirement to take multiple vehicle inputs from the user; my pseud
 | Given Data | Processing required | Output required |
 | :--- | :--- | :--- |
 | category, type, if emergency and permit. | - Validate each input. <br> - To grant a permit, first check if the permit is valid or if it is an emergency. Then check the category, and for each category, check vehicle type. <br> - If space is available, allow them to park in the specific zone. <br> - Increment all vehicles processed, accepted vehicles, rejected vehicles, bikes, cars, vans accordingly. <br> - Compare parked cars in each zone to determine the zone with the highest occupancy. <br> - Also calculate the remaining space for each zone. | total vehicles, accepted vehicles, rejected vehicles, total bikes, cars, vans, zone with highest occupancy if applicable |
+
+## Output
+<img width="1806" height="1042" alt="image" src="https://github.com/user-attachments/assets/5b0646b6-4ae9-4057-9ed3-b47b6e8a749f" />
+<img width="1751" height="599" alt="image" src="https://github.com/user-attachments/assets/349733ca-9718-4ac0-ace0-d9a4b39b8668" />
+
