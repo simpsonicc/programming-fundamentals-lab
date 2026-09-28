@@ -23,4 +23,7 @@ formula for a is s - ((s*d)/100) not s - ((s-d)/100)
 | :--- | :--- | :--- |
 | quantity, price per item, discount percentage, tax percentage. | subtotal = quantity x price <br> amont = subtotal - (subtotal discounted amont)/100) <br> final bill = amont + ((amont x tax percentage)/100) | total amont that needs to be paid. |
 
+## Output 
+<img width="1848" height="777" alt="image" src="https://github.com/user-attachments/assets/ee7e3edd-fda3-4fcf-b126-19820862a3dd" />
+
 
