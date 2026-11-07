@@ -73,7 +73,7 @@ void sensor_analysis(int r, int c, float temp[r][c], float average[r]){
             else max_count = 0;
         }
         average[i] = avg = total/(float)c;
-        printf("Sensor %d: Total = %.2 Average = %.2f Max = %.2f Min = %.2f\n", i+1, total, average[i], highest, lowest);
+        printf("Sensor %d: Total = %.2f Average = %.2f Max = %.2f Min = %.2f\n", i+1, total, average[i], highest, lowest);
         printf("          Critical = %d Warning =%d  Longest hot streak=%d\n", c_count, w_count, max_count);
     }
 }
