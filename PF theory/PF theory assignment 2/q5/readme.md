@@ -7,8 +7,6 @@ Omer Aboya
 ### Section:
 BS-AI 1A
 
-## Pseudocode 
-
 ## Output 
 <img width="1877" height="1450" alt="image" src="https://github.com/user-attachments/assets/fe31a853-0582-4ab7-909d-5aed021642b8" />
 <img width="1790" height="1405" alt="image" src="https://github.com/user-attachments/assets/305cdd9b-b706-411c-afea-2b050074c239" />
